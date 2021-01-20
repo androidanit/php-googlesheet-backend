@@ -1,0 +1,128 @@
+body {
+  font: 14px "Open Sans", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 23px;
+  color: #727272;
+}
+
+.site-wrapper {
+  width: 100%;
+  margin: 0px auto;
+  background-color: #fff;
+}
+.wrapper-boxed {
+  margin: auto;
+  background-color: #fff;
+}
+
+.col-divider-margin-3 {
+  width: 100%;
+  float: left;
+  margin-top: 30px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Roboto", sans-serif;
+  font-weight: normal;
+  color: #272727;
+}
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+  color: inherit;
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 40px;
+  margin-bottom: 20px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+h4 {
+  font-size: 22px;
+  line-height: 25px;
+  margin-bottom: 18px;
+  font-style: normal;
+}
+h4.nomargin {
+  margin-bottom: 0px;
+}
+
+.blog-post-info {
+  width: 100%;
+}
+.blog-post-info span {
+  font-size: 13px;
+  color: #b9b9b9;
+  margin-right: 15px;
+}
+.sec-padding {
+  padding: 60px 0 60px 0;
+}
+.wrapper-main {
+  padding-left: 300px;
+  background-color: #fff;
+}
+
+.dosis {
+  font-family: "Dosis", sans-serif;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.title {
+  transition: all 0.3s ease-out 0s;
+}
+
+a,
+.btn {
+  -webkit-transition: all 0.3s ease-out 0s;
+  -moz-transition: all 0.3s ease-out 0s;
+  -ms-transition: all 0.3s ease-out 0s;
+  -o-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+}
+a:hover {
+  text-decoration: none;
+}
+a:focus,
+a:hover {
+  color: #101010;
+}
+a {
+  outline: medium none !important;
+  color: #727272;
+}
+
+.bg2-featurebox-4 {
+  width: 100%;
+  float: left;
+  padding: 30px 13px;
+  border: 1px solid #f0f0f0;
+}
+
+.btn.btn-dark-3 {
+  color: #727272;
+  background-color: #101010;
+}
+
+.btn.btn-small {
+  padding: 8px 18px;
+}
+.btn {
+  padding: 10px 36px;
+  margin: 0px;
+  box-shadow: none;
+  border-radius: 0;
+}
